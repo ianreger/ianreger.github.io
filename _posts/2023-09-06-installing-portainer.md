@@ -31,4 +31,3 @@ sudo docker run -d \
 -v portainer_data:/data \
 portainer/portainer-ce:latest
 ```
-
