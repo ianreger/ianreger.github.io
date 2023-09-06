@@ -1,9 +1,10 @@
 ---
-title: Hello Homelab!
+title: Hello Homelab
 date: 2023-09-06 12:00:00 -500
-categories: [homelab, hardware]
+categories: [homelab,hardware]
 tags: [servers,networking,linux,automation] #all tags MUST be lowercase
 ---
+
 
 # Welcome
 
