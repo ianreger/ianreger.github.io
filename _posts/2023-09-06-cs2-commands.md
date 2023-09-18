@@ -6,15 +6,22 @@ categories: [CS2,counter-strike]
 tags: [binds,commands,csgo,cs2,jumpthrow] #all tags MUST be lowercase
 ---
 
-###TLDR:
-####Practice
+### TLDR:
+
+#### Practice
+
 sv_cheats 1
+
 bind n noclip
+
 changelevel de_example
 
-####ETC.
+
+#### ETC.
+
 bind X "say Your Message"
 
+## PERFORMANCE
 
 ### cq_netgraph 1
 
