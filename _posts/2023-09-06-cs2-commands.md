@@ -6,6 +6,16 @@ categories: [CS2,counter-strike]
 tags: [binds,commands,csgo,cs2,jumpthrow] #all tags MUST be lowercase
 ---
 
+###TLDR:
+####Practice
+sv_cheats 1
+bind n noclip
+changelevel de_example
+
+####ETC.
+bind X "say Your Message"
+
+
 ### cq_netgraph 1
 
 Displays information about your latency in the top right corner of the game screen. Although, this is not as detailed as it was in CS: GO. You can use cl_showfps 2 as an alternative if you want the classic CS: GO netgraph.
