@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MotionEyeOS Raspberry Pi Zero W Install"
-date: 2023-10-31 18:45:36 -0500
+date: 2023-10-31 17:45:36 -0500
 categories: [raspberrypi,motioneyeos,camera]
 tags: [raspberrypi,raspberry,motioneyeos,camera,nvr] #all tags MUST be lowercase
 ---
